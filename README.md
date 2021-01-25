@@ -4,4 +4,4 @@ we used bid express to retrieve  "Asphalt item records" in bidding projects, for
 
 1) Raw Data: this folder mainly contains raw asphalt record data files. 
 2) Benford's result: this folder provides the result of applying BL to raw asphalt records
-3) Paper (figures): this folder contains the data files that were used to generate the figures 
+3) Paper (figures and codes): this folder contains the data files that were used to generate the figures and doing the analysis 
